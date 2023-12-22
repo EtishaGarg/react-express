@@ -27,5 +27,8 @@ By the end of this tutorial, you will have learned how to seamlessly integrate f
 <a href="https://youtu.be/BK2wEf-efGg"><img src="https://i.ytimg.com/vi/BK2wEf-efGg/mqdefault.jpg"></a><br/>
 <a href="https://youtu.be/BK2wEf-efGg">Build Restful CRUD API with Node, Express MongoDB & Postman</a><br/>
 <br/>
+In this video we are going to dive into the world of API creation with a step-by-step guide on building a Restful CRUD API using Node.js, Express, and MongoDB. But we don't stop there – I'll also show you how to rigorously test your API using Postman.  
+
+By the end of this video, you'll confidently work with APIs in your projects and apply the learnings you have got from this video.
 
 
